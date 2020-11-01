@@ -1,10 +1,9 @@
 # CE130_finite_element_method
-final project
-Project 5
+Final project
 
-FEM Calculation of Warping (Saint-Venant Torsion)
+# FEM Calculation of Warping (Saint-Venant Torsion)
 
-→ **take a look at Lecture 23F**
+
 
 [**https://en.wikiversity.org/wiki/Warping\_functions**](https://en.wikiversity.org/wiki/Warping_functions)
 
